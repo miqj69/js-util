@@ -5,7 +5,7 @@ JavaScript utility functions and classes for Web development.
 ## install
 
 ```
-npm i git://github.com/ykob/js-util.git
+npm i git://github.com/miqj69/js-util.git
 ```
 
 ## functions
